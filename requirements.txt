@@ -1,0 +1,8 @@
+streamlit
+moviepy
+openai
+python-dotenv
+pillow
+pydub
+pygame
+phi
